@@ -7,18 +7,18 @@
 
 ## 🚀 About the Project
 
-FinAI was developed during the **NEXXT AI Hackathon 2025** by team **Skepya**, to tackle one of the biggest challenges in modern finance:
+FinAI was developed during the **NEXXT AI Hackathon 2025** by team **Skepya**, to address one of the biggest challenges in modern finance:
 
 > 💬 *Banks provide data, but not direction.*  
-> Users get hundreds of charts, products, and reports, but no clear guidance on what actually fits their real-life goals.
+> Users receive hundreds of charts, products, and reports, but no clear guidance on what actually fits their real goals.
 
 ---
 
 ## 🧩 The Problem
 
-1. **Information Overload** – Customers receive too much financial data and too few actionable conclusions.  
-2. **Lack of Personalization** – Current systems offer generic recommendations that don’t take the individual risk profile into account.  
-3. **Missed Growth Opportunities** – Without guidance, users stay passive and banks lose potential revenue.
+1. **Information Overload** – Customers receive too much financial data and too few actionable insights.  
+2. **Lack of Personalization** – Current systems offer generic recommendations that ignore the individual risk profile.  
+3. **Missed Growth Opportunities** – Without guidance, users remain passive and banks lose potential revenue.
 
 ---
 
@@ -26,11 +26,11 @@ FinAI was developed during the **NEXXT AI Hackathon 2025** by team **Skepya**, t
 
 FinAI combines **intelligent profiling**, **dynamic recommendations**, and an **AI conversational assistant** to deliver personalized financial experiences.
 
-| Componentă | Descriere |
-|-------------|------------|
-| 🧠 **Profile Intelligence Engine** | Analizează cheltuielile, economiile și toleranța la risc pentru a construi un profil financiar adaptiv. |
-| 📊 **Dynamic Product Matching** | Recomandă investiții potrivite pe baza unui model ML antrenat. |
-| 💬 **Personalized Advisory Chat** | Explică deciziile AI în mod transparent și educă utilizatorii. |
+| Component | Description |
+|-----------|-------------|
+| 🧠 **Profile Intelligence Engine** | Analyzes spending, savings, and risk tolerance to build an adaptive financial profile. |
+| 📊 **Dynamic Product Matching** | Recommends suitable investment products based on a trained ML model. |
+| 💬 **Personalized Advisory Chat** | Explains AI decisions transparently and educates users. |
 
 ---
 
@@ -62,7 +62,7 @@ FinAI combines **intelligent profiling**, **dynamic recommendations**, and an **
 ## 🧮 How It Works
 
 1. **Data Analysis** – The ML models analyze transaction history to estimate the user’s risk profile.  
-2. **Agentic Reasoning** – AI agents interpret the user’s request and fetch the relevant data from the database.  
+2. **Agentic Reasoning** – AI agents interpret the user’s request and access data from the database.  
 3. **Personalized Response** – The chatbot provides recommendations and financial visualizations in real time.
 
 ---
@@ -71,7 +71,7 @@ FinAI combines **intelligent profiling**, **dynamic recommendations**, and an **
 
 **Real-World Impact**  
 - Helps clients invest smarter and with more confidence.  
-- Strengthens trust and engagement in the client–bank relationship.  
+- Increases trust and engagement in the client–bank relationship.  
 
 **Business Feasibility**  
 - Low integration cost.  
