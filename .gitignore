@@ -1,0 +1,45 @@
+# ---------- GENERAL ----------
+.DS_Store
+.env
+*.log
+*.pid
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+venv/
+.env/
+.venv/
+env/
+.vscode/
+.idea/
+
+# ---------- FRONTEND (React / Vite) ----------
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/.env.local
+frontend/.env.production
+frontend/.env.development
+
+# ---------- BACKEND (FastAPI / Python) ----------
+backend/__pycache__/
+backend/.mypy_cache/
+backend/.pytest_cache/
+backend/.env
+backend/.coverage
+backend/htmlcov/
+
+# ---------- DOCKER / BUILD ----------
+db_data/
+docker-data/
+*.tar
+*.bak
+*.db
+
+# ---------- SYSTEM ----------
+Thumbs.db
+ehthumbs.db
+Icon?
+
