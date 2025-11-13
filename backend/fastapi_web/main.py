@@ -52,7 +52,7 @@ MODEL_ID = "global.anthropic.claude-sonnet-4-20250514-v1:0"
 
 bedrock = boto3.client(
     'bedrock-runtime',
-    aws_session_token='ABSKQmVkcm9ja0FQSUtleS12YnVoLWF0LTE0OTI1MTI3MTU2NDpJcUxTNnlnUEl2UEJSbzFLRzNiR0tSSVY1TVpneFZ0cWFXdkZLajcyMDBkemM2OE5OZWczMVp3ZlVzQT0=',
+    aws_session_token='',
     region_name='us-west-2'
 )
 
