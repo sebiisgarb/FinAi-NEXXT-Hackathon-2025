@@ -1,30 +1,30 @@
 # 🧠 FinAI — Your AI-Powered Financial Companion
 
 > **"Your money deserves a smarter conversation."**  
-> FinAI este un asistent financiar inteligent care folosește AI pentru a oferi recomandări personalizate de investiții, analizând comportamentul utilizatorilor și riscul financiar în timp real.
+> FinAI is an intelligent financial assistant that uses AI to provide personalized investment recommendations by analyzing user behavior and financial risk in real time.
 
 ---
 
 ## 🚀 About the Project
 
-FinAI a fost dezvoltat în cadrul **NEXXT AI Hackathon 2025**, de echipa **Skepya**, pentru a adresa una dintre cele mai mari probleme din domeniul financiar modern:
+FinAI was developed during the **NEXXT AI Hackathon 2025** by team **Skepya**, to tackle one of the biggest challenges in modern finance:
 
-> 💬 *Băncile oferă date, dar nu direcție.*  
-> Utilizatorii primesc sute de grafice, produse și rapoarte, dar nicio îndrumare clară despre ce se potrivește cu obiectivele lor reale.
+> 💬 *Banks provide data, but not direction.*  
+> Users get hundreds of charts, products, and reports, but no clear guidance on what actually fits their real-life goals.
 
 ---
 
 ## 🧩 The Problem
 
-1. **Information Overload** – Clienții primesc prea multe date financiare și prea puține concluzii utile.  
-2. **Lack of Personalization** – Sistemele actuale oferă recomandări generice, fără a ține cont de profilul de risc.  
-3. **Missed Growth Opportunities** – Fără ghidare, utilizatorii rămân pasivi, iar băncile pierd venituri potențiale.
+1. **Information Overload** – Customers receive too much financial data and too few actionable conclusions.  
+2. **Lack of Personalization** – Current systems offer generic recommendations that don’t take the individual risk profile into account.  
+3. **Missed Growth Opportunities** – Without guidance, users stay passive and banks lose potential revenue.
 
 ---
 
 ## 💡 The Solution — FinAI
 
-FinAI combină **profilarea inteligentă**, **recomandările dinamice** și un **asistent conversațional AI** pentru a oferi experiențe financiare personalizate.
+FinAI combines **intelligent profiling**, **dynamic recommendations**, and an **AI conversational assistant** to deliver personalized financial experiences.
 
 | Componentă | Descriere |
 |-------------|------------|
@@ -59,34 +59,32 @@ FinAI combină **profilarea inteligentă**, **recomandările dinamice** și un *
 
 ---
 
-
-
 ## 🧮 How It Works
 
-1. **Data Analysis** – ML-ul analizează istoricul tranzacțiilor pentru a estima profilul de risc.  
-2. **Agentic Reasoning** – Agenții AI interpretează cererea utilizatorului și accesează datele din baza de date.  
-3. **Personalized Response** – Chatbotul oferă recomandări și vizualizări financiare în timp real.
+1. **Data Analysis** – The ML models analyze transaction history to estimate the user’s risk profile.  
+2. **Agentic Reasoning** – AI agents interpret the user’s request and fetch the relevant data from the database.  
+3. **Personalized Response** – The chatbot provides recommendations and financial visualizations in real time.
 
 ---
 
 ## 🌍 Impact & Feasibility
 
 **Real-World Impact**  
-- Ajută clienții să investească mai inteligent.  
-- Crește încrederea și implicarea în relația client–bancă.  
+- Helps clients invest smarter and with more confidence.  
+- Strengthens trust and engagement in the client–bank relationship.  
 
 **Business Feasibility**  
-- Cost redus de integrare.  
-- Scalabilitate ridicată.  
-- ROI rapid prin cross-selling și engagement crescut.
+- Low integration cost.  
+- High scalability.  
+- Fast ROI through cross-selling and increased engagement.
 
 ---
 
 ## 🧭 Future Implementations
 
-- 🔒 Integrare cu conturi bancare reale (Open Banking API).  
-- 📈 Recomandări predictive bazate pe modele ML avansate.  
-- 🧍‍♂️ Profilare psihologică a riscului.  
+- 🔒 Secure integration with real bank accounts (Open Banking APIs).  
+- 📈 Predictive recommendations powered by advanced ML models.  
+- 🧍‍♂️ Psychological risk profiling at user level.  
 
 ---
 
@@ -106,7 +104,3 @@ only **13 teams** advanced after the technical selection phase to develop real A
 We are proud to share that **FinAI by Team Skepya** was among the **7 finalist teams** selected for the grand finale.
 
 Special thanks to the **mentors, judges, and organizers** who guided our innovation journey and inspired us to push the boundaries of AI in finance.
-
----
-
-
